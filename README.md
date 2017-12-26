@@ -1,2 +1,9 @@
 # otus-java-ee-2017-12-vorotov
-Otus Java EE
+
+Группа 2017-12
+
+Vorotov Aleksandr (Воротов Александр)
+
+@alexvv
+
+vorotovalex@gmail.com
